@@ -1,6 +1,6 @@
 # GUI
 its a gui for games
---alex9#0001
+--Wish#1786
 
 local inst = Instance.new("Hint")
 inst.Text = "game might freeze for 30 seconds"
